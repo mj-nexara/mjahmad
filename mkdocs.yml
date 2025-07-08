@@ -38,14 +38,14 @@ nav:
       - Export Strategy: bangladesh/export-growth-roadmap.md
       - Policy Brief: bangladesh/policy-brief.md
       - Infographic: bangladesh/infographic-timeline.md
-   - Students:
+  - Students:
       - Overview: students/index.md
       - NexaraGov: students/nexaragov-student-edition.md
       - Constitution: students/constitution-student.md
       - Onboarding: students/onboarding-guide.md
       - IPFS Manifest: students/ipfs-manifest.md
       - Guardian Circle: students/guardian-circle-student.md
-   - Timeline:
+  - Timeline:
       - Overview: timeline/index.md
       - Roadmap: timeline/roadmap.md
       - Milestones: timeline/milestones.md
