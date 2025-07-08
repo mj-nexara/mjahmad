@@ -1,4 +1,4 @@
-site_name: MJ Ahmad — Nexara Meta Repository
+site_name: MJ Ahmad — Nexara Ethical Hub
 site_url: https://mj-nexara.github.io/mjahmad/
 repo_url: https://github.com/mj-nexara/mjahmad
 theme:
@@ -8,11 +8,47 @@ theme:
     accent: lime
 nav:
   - Home: index.md
-  - Vision:
-      - Principles: vision/mj-principles.md
-  - Architecture:
-      - Ecosystem Map: architecture/ecosystem-map.md
-  - Strategy:
-      - Roadmap: strategy/roadmap.md
+  - Legacy:
+      - Ethical Will: legacy/ethical-legacy.md
+      - Guardians: legacy/guardians.md
+      - How to Contribute: legacy/contributing.md
+  - Pillars:
+      - Overview: pillars/index.md
+      - Ethical Governance: pillars/governance.md
+      - Decentralized Identity: pillars/identity.md
+      - Immutable Documentation: pillars/documentation.md
+  - Projects:
+      - Overview: projects/index.md
+      - NexID Vault: projects/nexid-vault.md
+      - NexVote: projects/nexvote.md
+      - NexDocs: projects/nexdocs.md
+      - Guardian Circle: projects/guardian-circle.md
+      - NexFlow: projects/nexflow.md
+      - NexaraGov: projects/nexaragov.md
+  - Products:
+      - Overview: products/index.md
+      - Vault: products/vault.md
+      - Vote: products/vote.md
+      - Constitution Kit: products/constitution-kit.md
+      - SDK: products/sdk.md
+  - Bangladesh:
+      - Overview: bangladesh/index.md
+      - Current Context: bangladesh/current-context.md
+      - Economic Roadmap: bangladesh/economic-recovery-roadmap.md
+      - Export Strategy: bangladesh/export-growth-roadmap.md
+      - Policy Brief: bangladesh/policy-brief.md
+      - Infographic: bangladesh/infographic-timeline.md
+   - Students:
+      - Overview: students/index.md
+      - NexaraGov: students/nexaragov-student-edition.md
+      - Constitution: students/constitution-student.md
+      - Onboarding: students/onboarding-guide.md
+      - IPFS Manifest: students/ipfs-manifest.md
+      - Guardian Circle: students/guardian-circle-student.md
+   - Timeline:
+      - Overview: timeline/index.md
+      - Roadmap: timeline/roadmap.md
+      - Milestones: timeline/milestones.md
+      - History: timeline/history.md
   - Links:
       - Official: links/official.md
