@@ -1,0 +1,18 @@
+site_name: MJ Ahmad — Nexara Meta Repository
+site_url: https://mj-nexara.github.io/mjahmad/
+repo_url: https://github.com/mj-nexara/mjahmad
+theme:
+  name: material
+  palette:
+    primary: teal
+    accent: lime
+nav:
+  - Home: index.md
+  - Vision:
+      - Principles: vision/mj-principles.md
+  - Architecture:
+      - Ecosystem Map: architecture/ecosystem-map.md
+  - Strategy:
+      - Roadmap: strategy/roadmap.md
+  - Links:
+      - Official: links/official.md
