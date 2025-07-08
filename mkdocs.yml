@@ -52,3 +52,6 @@ nav:
       - History: timeline/history.md
   - Links:
       - Official: links/official.md
+  - Map:
+      - Overview: map/index.md
+      - Repository Map: map/repo-map.md
