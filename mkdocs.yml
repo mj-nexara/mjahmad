@@ -8,6 +8,8 @@ theme:
     accent: lime
 nav:
   - Home: index.md
+  - Emergency-Protocol:
+      - Emergency-Protocol: Emergency-Protocol\Flow\ETH\Etherscan.md
   - Legacy:
       - Ethical Will: legacy/ethical-legacy.md
       - Guardians: legacy/guardians.md
