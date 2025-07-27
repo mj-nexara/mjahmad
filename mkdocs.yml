@@ -9,7 +9,11 @@ theme:
 nav:
   - Home: index.md
   - Emergency-Protocol:
+<<<<<<< HEAD
       - Emergency-Protocol: Emergency-Protocol\Flow\ETH\Etherscan.md
+=======
+      - Kit-for-Etherscan: Emergency-Protocol\Kit-for-Etherscan.md
+>>>>>>> 1e3c257 (Initial commit: mjahmad)
   - Legacy:
       - Ethical Will: legacy/ethical-legacy.md
       - Guardians: legacy/guardians.md

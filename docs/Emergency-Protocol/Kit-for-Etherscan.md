@@ -28,10 +28,6 @@ Sincerely,
 MJ Ahmad
 ```
 
-> Optional: I can generate location-specific customization for Shah Alam / remote mention, or position title targeting (e.g. “Front-End Developer” or “Content Strategist”).
-
----
-
 ### 3️⃣ ⭐ GitHub Highlight Script (README badge-style)
 
 ```
@@ -44,17 +40,9 @@ MJ Ahmad
 
 > Rooted in modularity, transparency, and sovereign dignity.
 ```
----
 
-## 🚀 Next Steps
-
-1. ✅ Paste above content into your CV document, cover letter, and GitHub profile  
-2. 📨 Apply via [Etherscan Careers Page](https://etherscan.io/careers) — choose role(s) like:
-   - Front-End Developer  
-   - Content Strategist  
-   - Operations Associate  
 ---
-email draft
+*email draft*
 
 **Subject:** 
 ```
@@ -76,4 +64,13 @@ MJ Ahmad
 📍 Dhaka, Bangladesh
 ```
 ---
+
+## 🚀 Next Steps
+
+1. ✅ Paste above content into your CV document, cover letter, and GitHub profile  
+2. 📨 Apply via [Etherscan Careers Page](https://etherscan.io/careers) — choose role(s) like:
+   - Front-End Developer  
+   - Content Strategist  
+   - Operations Associate  
+
 Available for remote work
